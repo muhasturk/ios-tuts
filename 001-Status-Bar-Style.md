@@ -49,3 +49,10 @@ Apply both
 <string>UIStatusBarStyleDarkContent</string>
 ```
 
+## SwiftUI
+
+⚠️ Currently
+
+```swift
+.preferredColorScheme(.dark)
+```
