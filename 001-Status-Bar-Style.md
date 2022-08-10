@@ -51,8 +51,14 @@ Apply both
 
 ## SwiftUI
 
-⚠️ Currently
+⚠️ Need more API
 
+We can not override the status bar per view.
 ```swift
 .preferredColorScheme(.dark)
+```
+
+### (iOS 16)
+```swift
+.toolbarColorScheme(.light, in: .navigationBar)
 ```
