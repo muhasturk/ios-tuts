@@ -8,4 +8,4 @@
 ## 👨🏻‍💻 Author
 Mustafa Hasturk
 
-📧 mustafa[at]hasturk.com
+📧 mustafa[at]hasturk.dev
