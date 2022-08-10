@@ -1,4 +1,4 @@
-# 003-Navigation-Bar-Color-in-SwiftUI-on-iOS-16
+# 003-Navigation Bar Color in SwiftUI on iOS 16
 
 We can use new [API](https://developer.apple.com/documentation/swiftui/view/toolbarbackground(_:for:)-5ybst)
 
